@@ -1,10 +1,10 @@
 # Mouse-Pangenomics-Resources
 
-##Background information
-###Preprint
+## Background information
+### Preprint
 XXXXXXXXXX
 
-##Graph Creation Strategies
+## Graph Creation Strategies
 Graphs are avaliable from Minigraph-Catus summarized in the table below:
 
 |     | Minigraph-Catus |
@@ -17,14 +17,14 @@ Graphs are avaliable from Minigraph-Catus summarized in the table below:
 |long read mapping|untested|
 |Assembly mapping|untested|
 
-###Assembly Inputs
+### Assembly Inputs
 FIles for assemblied can be found in the<link>XXX</link>. 
 Total 92 assemblies, including  C57BL/6J (version:GRCm38.p6 (accesssion GCF_000001635.26) and GRCm39 (accession GCA_000001635.9)), other 7 founder lines(A/J, 129S1/SvImJ, NOD/ShiLtJ, NZO/HlLtJ, CAST/EiJ, PWK/PhJ, and WSB/EiJ) and 75 Collaborative Cross RI lines. 
 
-###Genome Annotations 
+### Genome Annotations 
 Gene annotation files(gtf) can be found in the <link>XXX</link>
 
-##Graphs
+## Graphs
 Graphs and associated files are summarized below.
 
 | Description| Max Graph| CC Graph| LT Graph|F1 Graph|
