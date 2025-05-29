@@ -1,5 +1,5 @@
 # Mouse-Pangenomics-Resources
-![](https://github.com/yal054/Mouse-Pangenomics-Resources/assets/images/M_GG_Illust.png)
+![](https://github.com/yal054/Mouse-Pangenomics-Resources/assets/M_GG_Illust.png)
 
 ## Background information
 ### Preprint
