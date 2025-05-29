@@ -12,10 +12,10 @@ Graphs are avaliable from Minigraph-Catus summarized in the table below:
 | sequence comparison | reference-based, progressive |
 | resolution | base-level｜
 | scope ｜ Non-centromeric｜
-｜cyclic paths｜ non-reference｜
-｜short read mapping ｜ yes |
+| cyclic paths| non-reference｜
+| short read mapping ｜ yes |
 | long read mapping | untested |
-| Assembly mapping| untested |
+| Assembly mapping | untested |
 
 ### Assembly Inputs
 FIles for assemblied can be found in the<link>XXX</link>. 
