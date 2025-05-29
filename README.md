@@ -32,7 +32,7 @@ Graphs and associated files are summarized below.
 |  Multiple Alignment|  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/) | 
 | VG Indexes |  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/) |
 |  Assembly mapping |  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| 
-
+| Graph groups | References, Founders,RI, Others|References, Founders,RI|References, Founders,RI|References,RI|
 
 
 ## Assembly Inputs and Annotations
@@ -56,7 +56,7 @@ Assembles and associated Annotations files are summarized below.
 |  Strain   | Graph group| Genome|Annotations|Other data|
 | --- | --- | --- | --- | --- |
 | CC001 | RI| [FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
-| CC003 | RI|[FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
+| CC002 | RI|[FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
 | CC003 | RI| [FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
 | CC004 | RI| [FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
 | CC005 | RI| [FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
