@@ -10,10 +10,10 @@ Graphs are avaliable from Minigraph-Catus summarized in the table below:
 |     | Minigraph-Catus |
 | --- | --- |
 | sequence comparison | reference-based, progressive |
-| resolution | base-level｜
-| scope | Non-centromeric｜
-| cyclic paths |  non-reference｜
-| short read mapping ｜ yes |
+| resolution | base-level| 
+| scope | Non-centromeric| 
+| cyclic paths |  non-reference| 
+| short read mapping |  yes |
 | long read mapping | untested |
 | Assembly mapping | untested |
 
@@ -28,12 +28,12 @@ Gene annotation files(gtf) can be found in the <link>XXX</link>
 Graphs and associated files are summarized below.
 
 | Description| Max Graph| CC Graph| LT Graph|F1 Graph|
-| --- | --- | --- | --- | --- |
-| Graph| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|[GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|[GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|[GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|
-| Full (Unclipped) Graph | [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|[GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|[GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|[GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/) |
-| Clipped Graph | [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|[GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|[GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|[GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/) |
-| Decomposed VCF｜ [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|[GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|[GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|[GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/) |
-｜ Raw VCF｜ [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|[GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|[GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|[GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/) |
-｜ Multiple Alignment｜ [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|[GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|[GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|[GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/) |
-| VG Indexes | [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|[GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|[GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|[GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|
-| Assembly mapping | [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|[GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|[GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|[GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|
+|  --- |  --- |  --- | --- | --- |
+|  Graph|   [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|  
+|  Full (Unclipped) Graph |  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/) | 
+|  Clipped Graph |  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/) |  
+|  Decomposed VCF|  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/) |
+|  Raw VCF|  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/) | 
+|  Multiple Alignment|  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/) | 
+| VG Indexes |  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/) |
+|  Assembly mapping |  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| 
