@@ -11,8 +11,8 @@ Graphs are avaliable from Minigraph-Catus summarized in the table below:
 | --- | --- |
 | sequence comparison | reference-based, progressive |
 | resolution | base-level｜
-| scope ｜ Non-centromeric｜
-| cyclic paths| non-reference｜
+| scope | Non-centromeric｜
+| cyclic paths |  non-reference｜
 | short read mapping ｜ yes |
 | long read mapping | untested |
 | Assembly mapping | untested |
