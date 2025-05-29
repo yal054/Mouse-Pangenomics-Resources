@@ -35,7 +35,7 @@ Graphs and associated files are summarized below.
 
 
 
-### Assembly Inputs and Annotations
+## Assembly Inputs and Annotations
 FIles for assemblied can be found in the<link>XXX</link>. 
 Total 92 assemblies, including  C57BL/6J (version:GRCm38.p6 (accesssion GCF_000001635.26) and GRCm39 (accession GCA_000001635.9)), other 7 founder lines(A/J, 129S1/SvImJ, NOD/ShiLtJ, NZO/HlLtJ, CAST/EiJ, PWK/PhJ, and WSB/EiJ) and 75 Collaborative Cross RI lines. 
 
