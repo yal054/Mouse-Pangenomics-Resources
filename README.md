@@ -146,6 +146,36 @@ Assembles and associated Annotations files are summarized below.
 | Mus musculus domesticus | LP_J|Others|GCA_001632615.1|LP_J_v1 |[FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
 | | SM_J|Others|| |[FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
 
+## Datasets
+### Whole genome sequencing dataset
+#### sequencing datasets
+|Sample|	Sample_size	|Reference	|Aligner	|Coordinate| Links|
+| --- |--- | --- | --- | --- | --- |
+|Real mouse line WGS	|6	|GRCm38	|bwa mem	|GRCm38|[GTF](https://pages.github.com/)|
+|Real mouse line WGS	|6	|Self Genome	|bwa mem	|Self Genome|[GTF](https://pages.github.com/)|
+|Real mouse line WGS|	6	|CC Pangenome	|vg giraffe	|CC Pangenome|[GTF](https://pages.github.com/)|
+|Real mouse line WGS	|10	|F1 Graph	|vg giraffe	|F1 Graph|[GTF](https://pages.github.com/)|
+|Real mouse line WGS|	6	|CC Pangenome	|vg giraffe	|GRCm38 (by surjection)|[GTF](https://pages.github.com/)|
+|Real mouse line WGS	|10	|F1 Graph	|vg giraffe	|GRCm38 (by surjection)|[GTF](https://pages.github.com/)|
 
-
-
+#### simulated datasets
+|Sample|	Sample_size	|Reference	|Aligner	|Coordinate| Links|
+| --- |--- | --- | --- | --- | --- |
+|Simulated RI line WGS|	40|	GRCm38|	bwa mem	|GRCm38|[GTF](https://pages.github.com/)|
+|Simulated RI line WGS|	40|	Self Genome|	bwa mem	|Self Genome|[GTF](https://pages.github.com/)|
+|Simulated RI line WGS|	40|	CC Pangenome|	vg giraffe|	CC Pangenome|[GTF](https://pages.github.com/)|
+|Simulated RI line WGS|	40|	F1 Graph|	vg giraffe|	F1 Graph|[GTF](https://pages.github.com/)|
+|Simulated RI line WGS|	6|	LT Pangenome|	vg giraffe|	LT Pangenome|[GTF](https://pages.github.com/)|
+|Simulated RI line WGS|	40|	CC Pangenome|	vg giraffe|	GRCm38 (by surjection)|[GTF](https://pages.github.com/)|
+|Simulated RI line WGS|	40|	F1 Graph|	vg giraffe|	GRCm38 (by surjection)|[GTF](https://pages.github.com/)|
+|Simulated RI line WGS|	6	|LT Pangenome|	vg giraffe|	GRCm38 (by surjection)|[GTF](https://pages.github.com/)|
+### Melthylation datasets
+| Sample |Links|
+| --- |--- | 
+||[GTF](https://pages.github.com/)|
+||[GTF](https://pages.github.com/)|
+### ATAC-seq datasets
+| Sample |Links|
+| --- |--- | 
+|JJ011|[GTF](https://pages.github.com/)|
+|JJ012|[GTF](https://pages.github.com/)|
