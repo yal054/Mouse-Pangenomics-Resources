@@ -140,37 +140,37 @@ Assembles and associated Annotations files are summarized below.
 | Mus musculus domesticus | BALB_cJ|Others | GCA_001632525.1|BALB_cJ_v1 |[FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
 | Mus musculus domesticus| C3H_HeJ|Others | GCA_001632575.1|C3H_HeJ_v1 | [FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
 | Mus musculus domesticus | C57BL_6_T2T|Others| ||[FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
-| Mus musculus domesticus | C57BL_6NJ|Others| GCA_001632555.1|C57BL_6NJ_v1 |[FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
+| Mus musculus domesticus | C57BL_6NJ|Others| GCA_001632555.1|C57BL_6NJ_v1 |[FASTA](https://wustl.box.com/s/kvu3dk9booxwc8767zstygqsqivo47vw)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
 | Mus musculus  | CBA_J|Others| GCA_001624475.1|CBA_J_v1 |[FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
 | Mus musculus domesticus | DBA_2J|Others| GCA_001624505.1|DBA_2J_v1 |[FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
 | Mus musculus  | FVB_NJ|Others| GCA_001624535.1|FVB_NJ_v1 |[FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
 | Mus musculus domesticus | LG_J|Others| | |[FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
-| Mus musculus domesticus | LP_J|Others|GCA_001632615.1|LP_J_v1 |[FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
-| | SM_J|Others|| |[FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
+| Mus musculus domesticus | LP_J|Others|GCA_001632615.1|LP_J_v1 |[FASTA](https://wustl.box.com/s/cuk47i5c17ie78cbdnd559nhkqv69u6d)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
+| | SM_J|Others|| |[FASTA](https://wustl.box.com/s/t8wtnr90ejl57bvg2mg2mjh6zv8ejztk)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
 
 ## Datasets
 ### Whole genome sequencing dataset
 #### sequencing datasets
 |Sample|	Sample_size	|Reference	|Aligner	|Coordinate| Links|
 | --- |--- | --- | --- | --- | --- |
-|Real mouse line WGS	|6	|GRCm38	|bwa mem	|GRCm38|[GTF](https://pages.github.com/)|
-|Real mouse line WGS	|6	|Self Genome	|bwa mem	|Self Genome|[GTF](https://pages.github.com/)|
-|Real mouse line WGS|	6	|CC Pangenome	|vg giraffe	|CC Pangenome|[GTF](https://pages.github.com/)|
-|Real mouse line WGS	|10	|F1 Graph	|vg giraffe	|F1 Graph|[GTF](https://pages.github.com/)|
-|Real mouse line WGS|	6	|CC Pangenome	|vg giraffe	|GRCm38 (by surjection)|[GTF](https://pages.github.com/)|
-|Real mouse line WGS	|10	|F1 Graph	|vg giraffe	|GRCm38 (by surjection)|[GTF](https://pages.github.com/)|
+|Real mouse line WGS	|6	|GRCm38	|bwa mem	|GRCm38|[FASTQ](https://pages.github.com/)|
+|Real mouse line WGS	|6	|Self Genome	|bwa mem	|Self Genome|[FASTQ](https://pages.github.com/)|
+|Real mouse line WGS|	6	|CC Pangenome	|vg giraffe	|CC Pangenome|[FASTQ](https://pages.github.com/)|
+|Real mouse line WGS	|10	|F1 Graph	|vg giraffe	|F1 Graph|[FASTQ](https://pages.github.com/)|
+|Real mouse line WGS|	6	|CC Pangenome	|vg giraffe	|GRCm38 (by surjection)|[FASTQ](https://pages.github.com/)|
+|Real mouse line WGS	|10	|F1 Graph	|vg giraffe	|GRCm38 (by surjection)|[FASTQ](https://pages.github.com/)|
 
 #### simulated datasets
-|Sample|	Sample_size	|Reference	|Aligner	|Coordinate| Links|
+|Sample|	Sample_size	|Reference	|Aligner	|Coordinate| FASTQ|
 | --- |--- | --- | --- | --- | --- |
-|Simulated RI line WGS|	40|	GRCm38|	bwa mem	|GRCm38|[GTF](https://pages.github.com/)|
-|Simulated RI line WGS|	40|	Self Genome|	bwa mem	|Self Genome|[GTF](https://pages.github.com/)|
-|Simulated RI line WGS|	40|	CC Pangenome|	vg giraffe|	CC Pangenome|[GTF](https://pages.github.com/)|
-|Simulated RI line WGS|	40|	F1 Graph|	vg giraffe|	F1 Graph|[GTF](https://pages.github.com/)|
-|Simulated RI line WGS|	6|	LT Pangenome|	vg giraffe|	LT Pangenome|[GTF](https://pages.github.com/)|
-|Simulated RI line WGS|	40|	CC Pangenome|	vg giraffe|	GRCm38 (by surjection)|[GTF](https://pages.github.com/)|
-|Simulated RI line WGS|	40|	F1 Graph|	vg giraffe|	GRCm38 (by surjection)|[GTF](https://pages.github.com/)|
-|Simulated RI line WGS|	6	|LT Pangenome|	vg giraffe|	GRCm38 (by surjection)|[GTF](https://pages.github.com/)|
+|Simulated RI line WGS|	40|	GRCm38|	bwa mem	|GRCm38|[FASTQ](https://pages.github.com/)|
+|Simulated RI line WGS|	40|	Self Genome|	bwa mem	|Self Genome|[FASTQ](https://pages.github.com/)|
+|Simulated RI line WGS|	40|	CC Pangenome|	vg giraffe|	CC Pangenome|[FASTQ](https://pages.github.com/)|
+|Simulated RI line WGS|	40|	F1 Graph|	vg giraffe|	F1 Graph|[FASTQ](https://pages.github.com/)|
+|Simulated RI line WGS|	6|	LT Pangenome|	vg giraffe|	LT Pangenome|[FASTQ](https://pages.github.com/)|
+|Simulated RI line WGS|	40|	CC Pangenome|	vg giraffe|	GRCm38 (by surjection)|[FASTQ](https://pages.github.com/)|
+|Simulated RI line WGS|	40|	F1 Graph|	vg giraffe|	GRCm38 (by surjection)|[FASTQ](https://pages.github.com/)|
+|Simulated RI line WGS|	6	|LT Pangenome|	vg giraffe|	GRCm38 (by surjection)|[FASTQ](https://pages.github.com/)|
 ### Melthylation datasets
 Sample sources: [GSE87101](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE87101)
 ### ATAC-seq datasets
