@@ -45,15 +45,15 @@ Assembles and associated Annotations files are summarized below.
 #### 8 founder lines
 |Species  | Strain   |Graph group| Accession|Assembly Name|Genome|Annotations|Other data|
 | --- |--- | --- | --- | --- | --- |--- |--- |
-| Mus musculus domesticus |GRCm39 |References|GCA_000001635.9|GRCm39 |[FASTA](https://wustl.box.com/s/yxn1pxobbigfli6pnhlbph98h1d1a8v9)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
-| Mus musculus domesticus | mm10|References| GCF_000001635.26|GRCm38.p6 |[FASTA](https://wustl.box.com/s/p65sjrxp7gqaa008fujp6hm2sv50gkxs)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
-| Mus musculus domesticus | A_J|Founders | GCA_001624215.1|A_J_v1 |[FASTA](https://wustl.box.com/s/e1kuii99n8nubxrjoskty7aht8ajfcwa)|[GTF](https://wustl.box.com/s/o8xdc1rvg4he0dlcp9enxgvhirokpw06)|[Links](https://pages.github.com/)|
-| Mus musculus domesticus | 129S1_SvImJ|Founders | GCA_001624185.1|129S1_SvImJ_v1 |[FASTA](https://wustl.box.com/s/zshlgett36tc46dff81jgl6fiemqlhmc)|[GTF](https://wustl.box.com/s/sg7k4je6ddhyjmi726mh4tz0544hl04b)|[Links](https://pages.github.com/)|
-| Mus musculus castaneus | CAST_EiJ|Founders | GCA_001624445.1|CAST_EiJ_v1 | [FASTA](https://wustl.box.com/s/k0qzcks18t2a9y7zy04ykhlz6esepkgr)|[GTF](https://wustl.box.com/s/5uo6f4r62cbppfmvkwwvdekiun4dv3mv)|[Links](https://pages.github.com/)|
-| Mus musculus domesticus | NOD_ShiLtJ|Founders| GCA_001624675.1|NOD_ShiLtJ_v1 |[FASTA](https://wustl.box.com/s/zycq4s6js4ngpvlhkufi2qec3d94mf3l)|[GTF](https://wustl.box.com/s/zjgftstm73hpvj94y0uombavs2js2vqj)|[Links](https://pages.github.com/)|
-| Mus musculus domesticus | NZO_HlLtJ|Founders| GCA_001624745.1|NZO_HlLtJ_v1 |[FASTA](https://wustl.box.com/s/m4yh1o7zw5lcfknih2wtxcujm2rznz9j)|[GTF](https://wustl.box.com/s/8xe0ur00iptkeeue365t1q9c0jx0luyw)|[Links](https://pages.github.com/)|
-| Mus musculus musculus | PWK_PhJ|Founders| GCA_001624775.1|PWK_PhJ_v1 |[FASTA](https://wustl.box.com/s/3lxspogzff7q4gpiegvnbixtystxw5i9)|[GTF](https://wustl.box.com/s/6oh54rh0bzazz4kcpmhw95ggh18oyuy3)|[Links](https://pages.github.com/)|
-| Mus musculus domesticus | WSB_EiJ|Founders| GCA_001624835.1|WSB_EiJ_v1 |[FASTA](https://wustl.box.com/s/u6xmzscuqwydmphjmxxhfn01cmgwqk8k)|[GTF](https://wustl.box.com/s/g8iciw1pb6j13xhxbpmxhimmt0o0tsb5)|[Links](https://pages.github.com/)|
+| Mus musculus domesticus |GRCm39 |References|GCA_000001635.9|GRCm39 |[FASTA](https://wustl.box.com/s/yxn1pxobbigfli6pnhlbph98h1d1a8v9)|[GTF](https://pages.github.com/)||
+| Mus musculus domesticus | mm10|References| GCF_000001635.26|GRCm38.p6 |[FASTA](https://wustl.box.com/s/p65sjrxp7gqaa008fujp6hm2sv50gkxs)|[GTF](https://pages.github.com/)||
+| Mus musculus domesticus | A_J|Founders | GCA_001624215.1|A_J_v1 |[FASTA](https://wustl.box.com/s/e1kuii99n8nubxrjoskty7aht8ajfcwa)|[GTF](https://wustl.box.com/s/o8xdc1rvg4he0dlcp9enxgvhirokpw06)|[Links](https://wustl.box.com/s/9kmec7vj7i1xtmymy0b97z4nbzmz2383)|
+| Mus musculus domesticus | 129S1_SvImJ|Founders | GCA_001624185.1|129S1_SvImJ_v1 |[FASTA](https://wustl.box.com/s/zshlgett36tc46dff81jgl6fiemqlhmc)|[GTF](https://wustl.box.com/s/sg7k4je6ddhyjmi726mh4tz0544hl04b)|[Links](https://wustl.box.com/s/xpcvo15es691xztj603xwypn5f9tk1hj)|
+| Mus musculus castaneus | CAST_EiJ|Founders | GCA_001624445.1|CAST_EiJ_v1 | [FASTA](https://wustl.box.com/s/k0qzcks18t2a9y7zy04ykhlz6esepkgr)|[GTF](https://wustl.box.com/s/5uo6f4r62cbppfmvkwwvdekiun4dv3mv)|[Links](https://wustl.box.com/s/uelkgtjy5h3p4fhm89shxlzzdjkvfe6u)|
+| Mus musculus domesticus | NOD_ShiLtJ|Founders| GCA_001624675.1|NOD_ShiLtJ_v1 |[FASTA](https://wustl.box.com/s/zycq4s6js4ngpvlhkufi2qec3d94mf3l)|[GTF](https://wustl.box.com/s/zjgftstm73hpvj94y0uombavs2js2vqj)|[Links](https://wustl.box.com/s/u89okf40krecgqw3tg0ldrzojbeqm5nv)|
+| Mus musculus domesticus | NZO_HlLtJ|Founders| GCA_001624745.1|NZO_HlLtJ_v1 |[FASTA](https://wustl.box.com/s/m4yh1o7zw5lcfknih2wtxcujm2rznz9j)|[GTF](https://wustl.box.com/s/8xe0ur00iptkeeue365t1q9c0jx0luyw)|[Links](https://wustl.box.com/s/6632q5c6ts2dd8dm8rxpfr3p13decqbc)|
+| Mus musculus musculus | PWK_PhJ|Founders| GCA_001624775.1|PWK_PhJ_v1 |[FASTA](https://wustl.box.com/s/3lxspogzff7q4gpiegvnbixtystxw5i9)|[GTF](https://wustl.box.com/s/6oh54rh0bzazz4kcpmhw95ggh18oyuy3)|[Links](https://wustl.box.com/s/rszukox645d4gbndt9t1058r2hs303uv)|
+| Mus musculus domesticus | WSB_EiJ|Founders| GCA_001624835.1|WSB_EiJ_v1 |[FASTA](https://wustl.box.com/s/u6xmzscuqwydmphjmxxhfn01cmgwqk8k)|[GTF](https://wustl.box.com/s/g8iciw1pb6j13xhxbpmxhimmt0o0tsb5)|[Links](https://wustl.box.com/s/mguwmgmwr3qhi3g8v8rvltsz5lnlv1eu)|
 #### 75 RI lines
 |  Strain   | Graph group| Genome|Annotations|Other data|
 | --- | --- | --- | --- | --- |
@@ -134,7 +134,7 @@ Assembles and associated Annotations files are summarized below.
 | CC083 | RI| [FASTA](https://wustl.box.com/s/thqtz9zc6yhn1bbw1fpzy9at3fix2v5c)|[GTF](https://wustl.box.com/s/s4bnprqa3r8b919yjeedovc0r3gof1jc)|[Links](https://pages.github.com/)|
 
 #### Other Strains
-|Species  | Strain   |Graph group| Accession|Assembly Name|Genome|Annotations|Gaps bed|
+|Species  | Strain   |Graph group| Accession|Assembly Name|Genome|Annotations|Other data|
 | --- |--- | --- | --- | --- | --- |--- |--- |
 | Mus musculus domesticus | AKR_J|Others | GCA_001624295.1|AKR_J_v1 |[FASTA](https://wustl.box.com/s/u94tjri2eamzutfe7s0fsalups4omclu)|[GTF](https://wustl.box.com/s/5fafwqz46hy6nnmu1u2aza97pgb18n5h)|[Links](https://pages.github.com/)|
 | Mus musculus domesticus | BALB_cJ|Others | GCA_001632525.1|BALB_cJ_v1 |[FASTA](https://wustl.box.com/s/vj9xg4l572u5zdu17l8v4i674pfq35ch)|[GTF](https://wustl.box.com/s/bi40jxli7z2ho3qb3d9j0coikxvrw2dh)|[Links](https://pages.github.com/)|
