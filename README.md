@@ -4,7 +4,7 @@
 ## Background information
 ### Preprint
 
-[XXXXXXX](https://pages.github.com/)
+[XXXXXXX]()
 
 ## Graph Creation Strategies
 Graphs are constructed from [Minigraph-Catus](https://github.com/ComparativeGenomicsToolkit/cactus/blob/master/doc/pangenome.md)([cite](https://www.nature.com/articles/s41587-023-01793-w)) summarized in the table below:
@@ -26,21 +26,20 @@ Graphs and associated files are summarized below.
 
 | Description| Max Graph| Collaborative Cross (CC) graph| Less Two(LT) graph|F1 Graph|
 |  --- |  --- |  --- | --- | --- |
-|  Graph|   [GFA](https://wustl.box.com/s/4hefdyjgpaqww4ph49qgr0ke0ji9mj22) [GBZ](https://wustl.box.com/s/2fqgbyy6eudrft42ra6xsq4aysutsyyx)|| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|  
+|  Graph| [GFA](https://wustl.box.com/s/4hefdyjgpaqww4ph49qgr0ke0ji9mj22) [GBZ](https://wustl.box.com/s/2fqgbyy6eudrft42ra6xsq4aysutsyyx)|| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|  
 |  Full (Unclipped) Graph |  [GFA](https://wustl.box.com/s/5p47tv8m3e2ivck4r336iy4811h5dgby) [GBZ](https://wustl.box.com/s/dow1idkt2i47xez9mwsq0i4icj4v4z8r)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/) | 
-|  Clipped Graph |  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/) |  
-|  Decomposed VCF|  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/) |
-|  Raw VCF|  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/) | 
-|  Multiple Alignment|  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/) | 
-| VG Indexes |  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/) |
-|  Assembly mapping |  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| 
+|  Decomposed VCF|  [VCF](https://wustl.box.com/s/giskmgths34lkolu8ke4si27ixshznve) | [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/) |
+|  Raw VCF|  [VCF](https://wustl.box.com/s/w41h6005qvdbvvkxx6inmheeb4mx9iv2) | [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/) | 
+|  Multiple Alignment|  [HAL](https://wustl.box.com/s/e0vbeliuov4y9m2lz2o13y8hjgdp5s10) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/) | 
+| VG Indexes |  [gbz](https://wustl.box.com/s/v6x2igksd1ioaodr61hytn7g7kqrv838) [dist](https://wustl.box.com/s/v6x2igksd1ioaodr61hytn7g7kqrv838) [min](https://wustl.box.com/s/yb12cz2kzen3nbvrsk2qoqvpqqier24d)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/) |
 | Graph groups | References, Founders,RI, Others|References, Founders,RI|References, Founders,RI|References,RI|
 | Number of assemblies | 95|84|82|4|
 
 
 ## Assembly Inputs and Annotations
 FIles for assemblied can be found in the<link>XXX</link>. 
-Total 95 assemblies, including  C57BL/6J (version:GRCm38.p6 (accesssion GCF_000001635.26) and GRCm39 (accession GCA_000001635.9)), other 7 founder lines(A/J, 129S1/SvImJ, NOD/ShiLtJ, NZO/HlLtJ, CAST/EiJ, PWK/PhJ, and WSB/EiJ), 75 Collaborative Cross RI lines and other 10 mouse strains. 
+Total 95 assemblies, including **C57BL/6J (version:GRCm38.p6 (accesssion GCF_000001635.26) and GRCm39 (accession GCA_000001635.9)), other 7 founder lines(A/J, 129S1/SvImJ, NOD/ShiLtJ, NZO/HlLtJ, CAST/EiJ, PWK/PhJ, and WSB/EiJ), 75 Collaborative Cross RI lines and other 11 mouse strains. **
+> These assemblies only contain chr[1-19|X|Y|M]
 
 Assembles and associated Annotations files are summarized below.
 #### 8 founder lines
@@ -119,20 +118,20 @@ Assembles and associated Annotations files are summarized below.
 | CC062 | RI| [FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
 | CC063 | RI| [FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
 | CC065 | RI| [FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
-| CC068 | RI| [FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
-| CC070 | RI| [FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
-| CC071 | RI| [FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
-| CC072 | RI| [FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
-| CC073 | RI| [FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
-| CC074 | RI| [FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
-| CC075 | RI| [FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
-| CC076 | RI| [FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
-| CC078 | RI| [FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
-| CC079 | RI| [FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
-| CC080 | RI| [FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
-| CC081 | RI| [FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
-| CC082 | RI| [FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
-| CC083 | RI| [FASTA](https://pages.github.com/)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
+| CC068 | RI| [FASTA](https://wustl.box.com/s/4unjg2ofnnz0ahffwiljwupg6d8ksf0l)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
+| CC070 | RI| [FASTA](https://wustl.box.com/s/teiiafktcyocffhl65vtypq1u8vbzpjf)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
+| CC071 | RI| [FASTA](https://wustl.box.com/s/xzcn7cyk0v81e02bxrohgkv2vf6wvek5)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
+| CC072 | RI| [FASTA](https://wustl.box.com/s/jsn0piyz7lpb2jqn96wynrj6pbi7gvjx)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
+| CC073 | RI| [FASTA](https://wustl.box.com/s/ce5xlazlijcsbydal2umbobxjxk4muib)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
+| CC074 | RI| [FASTA](https://wustl.box.com/s/621niri16f35m9rebuvwgfgmhonom1e2)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
+| CC075 | RI| [FASTA](https://wustl.box.com/s/352s8r9yxge3a5t1r96ghlszfpg3shy8)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
+| CC076 | RI| [FASTA](https://wustl.box.com/s/hfiufa2wbgzr07c9pe00xrgdh8fa16ma)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
+| CC078 | RI| [FASTA](https://wustl.box.com/s/s5paq12jmwmudqbickxe86wz0nrq695w)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
+| CC079 | RI| [FASTA](https://wustl.box.com/s/ij5j5pw5b9eufpow57ru1ds0toq59qtp)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
+| CC080 | RI| [FASTA](https://wustl.box.com/s/k2ebewhnx6e8d5a29j9wyhkzmx9l04se)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
+| CC081 | RI| [FASTA](https://wustl.box.com/s/4gmkhqjeakejcrk6101txz1qtn2c6uv9)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
+| CC082 | RI| [FASTA](https://wustl.box.com/s/ngjfksb6601e1d5wormdbx7u5temnz4t)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
+| CC083 | RI| [FASTA](https://wustl.box.com/s/thqtz9zc6yhn1bbw1fpzy9at3fix2v5c)|[GTF](https://pages.github.com/)|[Links](https://pages.github.com/)|
 
 #### Other Strains
 |Species  | Strain   |Graph group| Accession|Assembly Name|Genome|Annotations|Other data|
@@ -173,12 +172,9 @@ Assembles and associated Annotations files are summarized below.
 |Simulated RI line WGS|	40|	F1 Graph|	vg giraffe|	GRCm38 (by surjection)|[GTF](https://pages.github.com/)|
 |Simulated RI line WGS|	6	|LT Pangenome|	vg giraffe|	GRCm38 (by surjection)|[GTF](https://pages.github.com/)|
 ### Melthylation datasets
-| Sample |Links|
-| --- |--- | 
-||[GTF](https://pages.github.com/)|
-||[GTF](https://pages.github.com/)|
+Sample sources: [GSE87101](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE87101)
 ### ATAC-seq datasets
-| Sample |Links|
+| Sample |FASTQ|
 | --- |--- | 
-|JJ011|[GTF](https://pages.github.com/)|
-|JJ012|[GTF](https://pages.github.com/)|
+|JJ011|[FASTQ](https://wustl.box.com/s/r4sjugfswr0yz08dyqapjpng168q25qg)|
+|JJ012|[FASTQ](https://wustl.box.com/s/12t0wddzk820kw2pe8ggpgqprbld8slf)|
