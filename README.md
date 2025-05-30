@@ -22,14 +22,11 @@ Graphs are constructed from [Minigraph-Catus](https://github.com/ComparativeGeno
 
 ## Graphs
 Graphs and associated files are summarized below.
-Max Graph:
-CC Graph:
-LT Graph:
-F1 Graph:
 
-| Description| Max Graph| CC Graph| LT Graph|F1 Graph|
+
+| Description| Max Graph| Collaborative Cross (CC) graph| Less Two(LT) graph|F1 Graph|
 |  --- |  --- |  --- | --- | --- |
-|  Graph|   [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|  
+|  Graph|   [GFA](https://wustl.box.com/s/4hefdyjgpaqww4ph49qgr0ke0ji9mj22) [GitHub Pages](https://pages.github.com/)|| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|  
 |  Full (Unclipped) Graph |  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/) | 
 |  Clipped Graph |  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/) |  
 |  Decomposed VCF|  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/) |
@@ -38,6 +35,7 @@ F1 Graph:
 | VG Indexes |  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)|  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/) |
 |  Assembly mapping |  [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| [GitHub Pages](https://pages.github.com/) [GitHub Pages](https://pages.github.com/)| 
 | Graph groups | References, Founders,RI, Others|References, Founders,RI|References, Founders,RI|References,RI|
+| Number of assemblies | 95|84|82|4|
 
 
 ## Assembly Inputs and Annotations
