@@ -7,7 +7,7 @@
 [XXXXXXX](https://pages.github.com/)
 
 ## Graph Creation Strategies
-Graphs are avaliable from Minigraph-Catus summarized in the table below:
+Graphs are constructed from [Minigraph-Catus](https://github.com/ComparativeGenomicsToolkit/cactus/blob/master/doc/pangenome.md)[cite](https://www.nature.com/articles/s41587-023-01793-w) summarized in the table below:
 
 |     | Minigraph-Catus |
 | --- | --- |
@@ -22,6 +22,10 @@ Graphs are avaliable from Minigraph-Catus summarized in the table below:
 
 ## Graphs
 Graphs and associated files are summarized below.
+Max Graph:
+CC Graph:
+LT Graph:
+F1 Graph:
 
 | Description| Max Graph| CC Graph| LT Graph|F1 Graph|
 |  --- |  --- |  --- | --- | --- |
