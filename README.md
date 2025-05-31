@@ -38,7 +38,7 @@ Graphs and associated files are summarized below.
 
 ## Assembly Inputs and Annotations
 FIles for assemblied can be found in the<link>XXX</link>. 
-Total 95 assemblies, including **C57BL/6J (version:GRCm38.p6 (accesssion GCF_000001635.26) and GRCm39 (accession GCA_000001635.9)), other 7 founder lines(A/J, 129S1/SvImJ, NOD/ShiLtJ, NZO/HlLtJ, CAST/EiJ, PWK/PhJ, and WSB/EiJ), 75 Collaborative Cross RI lines and other 11 mouse strains. **
+Total 95 assemblies, including ****C57BL/6J (version:GRCm38.p6 (accesssion GCF_000001635.26) and GRCm39 (accession GCA_000001635.9)), other 7 founder lines(A/J, 129S1/SvImJ, NOD/ShiLtJ, NZO/HlLtJ, CAST/EiJ, PWK/PhJ, and WSB/EiJ), 75 Collaborative Cross RI lines and other 11 mouse strains.** **
 > These assemblies only contain chr[1-19|X|Y|M]
 
 Assembles and associated Annotations files are summarized below.
