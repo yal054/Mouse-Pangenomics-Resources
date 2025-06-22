@@ -1,6 +1,8 @@
 # Mouse-Pangenomics-Resources
 ![](https://github.com/yal054/Mouse-Pangenomics-Resources/assets/M_GG_Illust.png)
 
+The mouse, *Mus musculus*, serves as an important genetic model organism in biomedical research. However, the current linear reference genome limits our ability to accurately capture the genetic diversity and genomic alterations in diverse mouse strains. Here, we present the first draft of the mouse pangenome at base-level resolution, comprising **95** assemblies of widely used mouse breeding strains. Our draft mouse pangenome comprises over **35** million base pairs of genetic variants, which well captures the species’ population structure and underlying evolutionary history. Through comprehensive benchmarking, we demonstrate that our draft mouse pangenome graph surpasses linear genomes by **18.7%** in perfect read mapping quality and reduces reference bias for approximately **3.3%** of genetic variants. By utilizing the personalized pangenomic approach, we can recover over **98%** of variant recombinants from the draft mouse pangenome, even when the recombinant offspring are not explicitly represented in the pangenome. These comprehensive reference resources enhance haplotype- and allele-specific functional genomics analyses across diverse mouse genetic backgrounds.
+
 
 ## Graph Creation Strategies
 Graphs are constructed from [Minigraph-Catus](https://github.com/ComparativeGenomicsToolkit/cactus/blob/master/doc/pangenome.md)([cite](https://www.nature.com/articles/s41587-023-01793-w)) summarized in the table below:
