@@ -45,106 +45,106 @@ Assembles and associated Annotations files are summarized below.
 | --- |--- | --- | --- | --- | --- |--- |--- |
 | Mus musculus domesticus |GRCm39 |References|GCA_000001635.9|GRCm39 |[FASTA](https://wustl.box.com/s/ynnsl3ltkemp769zjq0xxa6rholx8r4d)|||
 | Mus musculus domesticus | mm10|References| GCF_000001635.26|GRCm38.p6 |[FASTA](https://wustl.box.com/s/qym3igrwwklet0my9vx8kw2kspirmwkh)|||
-| Mus musculus domesticus | A_J|Founders | GCA_001624215.1|A_J_v1 |[FASTA](https://wustl.box.com/s/p1u1dvaq7ht5p271f8l81e3r4qitptx8)|[GTF](https://wustl.box.com/s/bwbvauxxse46k2ttd4mofbodgq71vi17)|[Links]()|
-| Mus musculus domesticus | 129S1_SvImJ|Founders | GCA_001624185.1|129S1_SvImJ_v1 |[FASTA](https://wustl.box.com/s/x7mz8u3sa0ellw4izrlt12eh8no1wma3)|[GTF](https://wustl.box.com/s/n9jn9h2ft7ui5w036wz87as849nxbq9c)|[Links]()|
-| Mus musculus castaneus | CAST_EiJ|Founders | GCA_001624445.1|CAST_EiJ_v1 | [FASTA](https://wustl.box.com/s/gdk6adwh5b8ov6xmfg8wu8cy7nam7348)|[GTF](https://wustl.box.com/s/r3no1ajuhmn567s40t1sbv056p0vqlru)|[Links]()|
-| Mus musculus domesticus | NOD_ShiLtJ|Founders| GCA_001624675.1|NOD_ShiLtJ_v1 |[FASTA](https://wustl.box.com/s/tg4cvued7paah445l97a93zk5bmjssxi)|[GTF](https://wustl.box.com/s/5bmmp2jc0zyz18zijs99veac7h2115rt)|[Links]()|
-| Mus musculus domesticus | NZO_HlLtJ|Founders| GCA_001624745.1|NZO_HlLtJ_v1 |[FASTA](https://wustl.box.com/s/otlhbsod76gelujm4rqzrj7ie3fv4p9m)|[GTF](https://wustl.box.com/s/qk77ptz14vb59psyy3jnf1bpfgtn57fc)|[Links]()|
-| Mus musculus musculus | PWK_PhJ|Founders| GCA_001624775.1|PWK_PhJ_v1 |[FASTA](https://wustl.box.com/s/iybsk4k3mgf4ic3eg4bqjmw36fo84sqx)|[GTF](https://wustl.box.com/s/bs0p9ie5gjtier4gp3rrsclxltyd6siq)|[Links]()|
-| Mus musculus domesticus | WSB_EiJ|Founders| GCA_001624835.1|WSB_EiJ_v1 |[FASTA](https://wustl.box.com/s/ncr13pfg89hnpzd5nrhsct2p5fnteysv)|[GTF](https://wustl.box.com/s/klwjyuuzxlg5eyy0kjzar6o2xnm3dacf)|[Links]()|
+| Mus musculus domesticus | A_J|Founders | GCA_001624215.1|A_J_v1 |[FASTA](https://wustl.box.com/s/p1u1dvaq7ht5p271f8l81e3r4qitptx8)|[GTF](https://wustl.box.com/s/bwbvauxxse46k2ttd4mofbodgq71vi17)|[Links](https://wustl.box.com/s/cpc88mimm0eaanavcdwf0bmy0mk1nfih)|
+| Mus musculus domesticus | 129S1_SvImJ|Founders | GCA_001624185.1|129S1_SvImJ_v1 |[FASTA](https://wustl.box.com/s/x7mz8u3sa0ellw4izrlt12eh8no1wma3)|[GTF](https://wustl.box.com/s/n9jn9h2ft7ui5w036wz87as849nxbq9c)|[Links](https://wustl.box.com/s/cpc88mimm0eaanavcdwf0bmy0mk1nfih)|
+| Mus musculus castaneus | CAST_EiJ|Founders | GCA_001624445.1|CAST_EiJ_v1 | [FASTA](https://wustl.box.com/s/gdk6adwh5b8ov6xmfg8wu8cy7nam7348)|[GTF](https://wustl.box.com/s/r3no1ajuhmn567s40t1sbv056p0vqlru)|[Links](https://wustl.box.com/s/cpc88mimm0eaanavcdwf0bmy0mk1nfih)|
+| Mus musculus domesticus | NOD_ShiLtJ|Founders| GCA_001624675.1|NOD_ShiLtJ_v1 |[FASTA](https://wustl.box.com/s/tg4cvued7paah445l97a93zk5bmjssxi)|[GTF](https://wustl.box.com/s/5bmmp2jc0zyz18zijs99veac7h2115rt)|[Links](https://wustl.box.com/s/cpc88mimm0eaanavcdwf0bmy0mk1nfih)|
+| Mus musculus domesticus | NZO_HlLtJ|Founders| GCA_001624745.1|NZO_HlLtJ_v1 |[FASTA](https://wustl.box.com/s/otlhbsod76gelujm4rqzrj7ie3fv4p9m)|[GTF](https://wustl.box.com/s/qk77ptz14vb59psyy3jnf1bpfgtn57fc)|[Links](https://wustl.box.com/s/cpc88mimm0eaanavcdwf0bmy0mk1nfih)|
+| Mus musculus musculus | PWK_PhJ|Founders| GCA_001624775.1|PWK_PhJ_v1 |[FASTA](https://wustl.box.com/s/iybsk4k3mgf4ic3eg4bqjmw36fo84sqx)|[GTF](https://wustl.box.com/s/bs0p9ie5gjtier4gp3rrsclxltyd6siq)|[Links](https://wustl.box.com/s/cpc88mimm0eaanavcdwf0bmy0mk1nfih)|
+| Mus musculus domesticus | WSB_EiJ|Founders| GCA_001624835.1|WSB_EiJ_v1 |[FASTA](https://wustl.box.com/s/ncr13pfg89hnpzd5nrhsct2p5fnteysv)|[GTF](https://wustl.box.com/s/klwjyuuzxlg5eyy0kjzar6o2xnm3dacf)|[Links](https://wustl.box.com/s/cpc88mimm0eaanavcdwf0bmy0mk1nfih)|
 #### 75 RI lines
 |  Strain   | Graph group| Genome|Annotations|Other data|
 | --- | --- | --- | --- | --- |
-| CC001 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC002 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/ts0gqgcfymujll9a2zk8rfu8n3xuhrup)|[Links]()|
-| CC003 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/yyd5klen8otoj62ctdas24halq5493ua)|[Links]()|
-| CC004 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC005 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/wkakr7yt32gk9znzehz0y0enlzrfhjvd)|[Links]()|
-| CC006 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/dvn14x15gv6e9odpti9ioka0v4wa05lr)|[Links]()|
-| CC007 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/pmpq89boocg9s062c5g2lb8bt48c14g9)|[Links]()|
-| CC008 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC009 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC010 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC011 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC012 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/jl0ht8cn5f1o2oo57o5nh9q827u64oc1)|[Links]()|
-| CC013 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC015 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/xb5r9ppajeomotr8mighje6gi42wdwyp)|[Links]()|
-| CC016 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/nza4q9qlvrhyq5zikrkcbqxg3j4znmef)|[Links]()|
-| CC017 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/hr7oc9tib5kfje1an9l68kgu5irlsh2h)|[Links]()|
-| CC018 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC019 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC020 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/qx9l86jrtjo0nmv3h1pc35co7cplozgu)|[Links]()|
-| CC021 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC022 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC023 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC024 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/o2o961ilyd1dzakngat0miw0eu9e0gv2)|[Links]()|
-| CC025 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/pjxso3z261jtkf51nzdiw731vlae08nv)|[Links]()|
-| CC026 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC027 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/q5y5kxk9hsr58jv4w9w6ncey2kk28qu5)|[Links]()|
-| CC028 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC029 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC030 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/igvsmbq5rbglcmz26kxdb5ym4hnnbtu4)|[Links]()|
-| CC031 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/19jmqtt86nevk8xqylgidmoh3mfwolxf)|[Links]()|
-| CC032 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC033 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC034 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC035 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/ps1sk3bjv26h6ccc7qnafay5p67a7cvu)|[Links]()|
-| CC036 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/zvf7p583yj9mgwchvgerpu4g1m5rshqa)|[Links]()|
-| CC037 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/1s8v6425u0x3av1f7qlsoymanwwo52sv)|[Links]()|
-| CC038 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/wac02uj267xqka14otmy7szn3tgvb00p)|[Links]()|
-| CC039 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC040 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC041 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC042 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC043 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC044 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/oiuzl503luwu5l0el7kxqepnjqf0b430)|[Links]()|
-| CC045 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC046 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/259ym5toog4vmrvxarjvuf5awkj7uv3p)|[Links]()|
-| CC047 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/p5i72mdqbt0n9n1ugrnlegtpyvm8a6bz)|[Links]()|
-| CC049 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/lxxye61x2zo2ub35whh57zc5ir4xxno7)|[Links]()|
-| CC050 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/y7cs7iwii93p1zjxih9rknqkz8gegyxh)|[Links]()|
-| CC051 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC052 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC053 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC055 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/08wc8tzdedtgacior3soiicczer6oz2i)|[Links]()|
-| CC056 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC057 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC058 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/cja5unsrjffk6sh2lksw90yyifnnupsv)|[Links]()|
-| CC059 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC060 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC061 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/sqp9ksyhyus8anbrdpidkg528medlemx)|[Links]()|
-| CC062 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC063 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC065 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC068 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/ihxp9whsqe7gwobyek9xadeiv2wymk3c)|[Links]()|
-| CC070 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC071 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/hx39eydkjfcxrdvkhvuman6qyct0sfvp)|[Links]()|
-| CC072 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/28e07on3thjvqqc0vn2aumzt8jbb0ma2)|[Links]()|
-| CC073 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/24yta37uy37kxtchf9xbj5igxeojjsl3)|[Links]()|
-| CC074 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC075 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC076 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/9y6vt3qsugsosg1bwqy717aoaiuvhztr)|[Links]()|
-| CC078 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/7od5409460qxe5un0t8925u135sz2dp7)|[Links]()|
-| CC079 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/ile9jgo053luiw72fv0yoj1wylj7uzkn)|[Links]()|
-| CC080 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC081 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/9y6cdmz8o2b5gxmdywwpqzkqh0azvr39)|[Links]()|
-| CC082 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/rq5pmykbaxoxupo4jo9olgxwesg0rxg3)|[Links]()|
-| CC083 | RI| [FASTA]()|[GTF]()|[Links]()|
+| CC001 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC002 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/ts0gqgcfymujll9a2zk8rfu8n3xuhrup)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC003 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/yyd5klen8otoj62ctdas24halq5493ua)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC004 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC005 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/wkakr7yt32gk9znzehz0y0enlzrfhjvd)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC006 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/dvn14x15gv6e9odpti9ioka0v4wa05lr)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC007 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/pmpq89boocg9s062c5g2lb8bt48c14g9)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC008 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC009 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC010 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC011 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC012 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/jl0ht8cn5f1o2oo57o5nh9q827u64oc1)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC013 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC015 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/xb5r9ppajeomotr8mighje6gi42wdwyp)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC016 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/nza4q9qlvrhyq5zikrkcbqxg3j4znmef)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC017 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/hr7oc9tib5kfje1an9l68kgu5irlsh2h)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC018 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC019 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC020 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/qx9l86jrtjo0nmv3h1pc35co7cplozgu)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC021 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC022 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC023 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC024 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/o2o961ilyd1dzakngat0miw0eu9e0gv2)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC025 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/pjxso3z261jtkf51nzdiw731vlae08nv)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC026 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC027 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/q5y5kxk9hsr58jv4w9w6ncey2kk28qu5)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC028 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/11g2p8m85ekzwrqgp2iprpk2g1214ioy)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC029 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/m8xpnvpe53p9qnbof5arz8ciiyq4o72g)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC030 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/igvsmbq5rbglcmz26kxdb5ym4hnnbtu4)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC031 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/19jmqtt86nevk8xqylgidmoh3mfwolxf)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC032 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC033 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC034 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC035 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/ps1sk3bjv26h6ccc7qnafay5p67a7cvu)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC036 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/zvf7p583yj9mgwchvgerpu4g1m5rshqa)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC037 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/1s8v6425u0x3av1f7qlsoymanwwo52sv)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC038 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/wac02uj267xqka14otmy7szn3tgvb00p)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC039 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC040 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC041 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC042 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC043 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC044 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/oiuzl503luwu5l0el7kxqepnjqf0b430)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC045 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC046 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/259ym5toog4vmrvxarjvuf5awkj7uv3p)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC047 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/p5i72mdqbt0n9n1ugrnlegtpyvm8a6bz)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC049 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/lxxye61x2zo2ub35whh57zc5ir4xxno7)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC050 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/y7cs7iwii93p1zjxih9rknqkz8gegyxh)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC051 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC052 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC053 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC055 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/08wc8tzdedtgacior3soiicczer6oz2i)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC056 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC057 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/wy28qun8jcles7tknbw7qhlf1xw90l36)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC058 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/cja5unsrjffk6sh2lksw90yyifnnupsv)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC059 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC060 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC061 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/sqp9ksyhyus8anbrdpidkg528medlemx)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC062 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC063 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC065 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC068 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/ihxp9whsqe7gwobyek9xadeiv2wymk3c)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC070 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC071 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/hx39eydkjfcxrdvkhvuman6qyct0sfvp)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC072 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/28e07on3thjvqqc0vn2aumzt8jbb0ma2)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC073 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/24yta37uy37kxtchf9xbj5igxeojjsl3)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC074 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC075 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC076 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/9y6vt3qsugsosg1bwqy717aoaiuvhztr)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC078 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/7od5409460qxe5un0t8925u135sz2dp7)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC079 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/ile9jgo053luiw72fv0yoj1wylj7uzkn)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC080 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC081 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/9y6cdmz8o2b5gxmdywwpqzkqh0azvr39)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC082 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/rq5pmykbaxoxupo4jo9olgxwesg0rxg3)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| CC083 | RI| [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/3688r34s2qjp0u2w9q9ll2g6jgeecmip)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
 
 #### Other Strains
 |Species  | Strain   |Graph group| Accession|Assembly Name|Genome|Annotations|Other data|
 | --- |--- | --- | --- | --- | --- |--- |--- |
-| Mus musculus domesticus | AKR_J|Others | GCA_001624295.1|AKR_J_v1 |[FASTA]()|[GTF](https://wustl.box.com/s/e8ln2sqs0ojh3wxtj8njzostl2erzovy)|[Links]()|
-| Mus musculus domesticus | BALB_cJ|Others | GCA_001632525.1|BALB_cJ_v1 |[FASTA]()|[GTF](https://wustl.box.com/s/dkiswr95yaickcj9q7i6u9fpdyx2861m)|[Links]()|
-| Mus musculus domesticus| C3H_HeJ|Others | GCA_001632575.1|C3H_HeJ_v1 | [FASTA]()|[GTF](https://wustl.box.com/s/7tipumlma6hnd4mmsmj627hijfex5t3g)|[Links]()|
-| Mus musculus domesticus | **C57BL_6_T2T**|Others| ||[FASTA]()|[GTF]()|[Links]()|
-| Mus musculus domesticus | C57BL_6NJ|Others| GCA_001632555.1|C57BL_6NJ_v1 |[FASTA]()|[GTF](https://wustl.box.com/s/jsk9grlu0lsmz25s4s82ls96wh8ek6y6)|[Links]()|
-| Mus musculus  | CBA_J|Others| GCA_001624475.1|CBA_J_v1 |[FASTA]()|[GTF](https://wustl.box.com/s/9hu1u7lnk1n2c0s72h3ac60t6a8d9wyn)|[Links]()|
-| Mus musculus domesticus | DBA_2J|Others| GCA_001624505.1|DBA_2J_v1 |[FASTA]()|[GTF](https://wustl.box.com/s/ese61lpnolb9mxn1qc90uczmmox20otb)|[Links]()|
-| Mus musculus  | FVB_NJ|Others| GCA_001624535.1|FVB_NJ_v1 |[FASTA]()|[GTF](https://wustl.box.com/s/99kpi9t9vunq8zexsxw088pgcwv4mova)|[Links]()|
-| Mus musculus domesticus | LG_J|Others| | |[FASTA]()|[GTF](https://wustl.box.com/s/eg5w8s7upy16mvmfzeueuir46o8lewsm)|[Links]()|
-| Mus musculus domesticus | LP_J|Others|GCA_001632615.1|LP_J_v1 |[FASTA]()|[GTF](https://wustl.box.com/s/zju14ja57rp1osqv5fkqi5jfhg2otb04)|[Links]()|
-| | SM_J|Others|| |[FASTA]()|[GTF](https://wustl.box.com/s/gdllhz8hhzprrp3c1rkxl6tcs6jlmd9k)|[Links]()|
+| Mus musculus domesticus | AKR_J|Others | GCA_001624295.1|AKR_J_v1 |[FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/e8ln2sqs0ojh3wxtj8njzostl2erzovy)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| Mus musculus domesticus | BALB_cJ|Others | GCA_001632525.1|BALB_cJ_v1 |[FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/dkiswr95yaickcj9q7i6u9fpdyx2861m)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| Mus musculus domesticus| C3H_HeJ|Others | GCA_001632575.1|C3H_HeJ_v1 | [FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/7tipumlma6hnd4mmsmj627hijfex5t3g)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| Mus musculus domesticus | **C57BL_6_T2T**|Others| ||[FASTA](https://wustl.box.com/s/5qt3ltaxg5s2p8whky2buo0f1uksdpep)|[GTF](https://wustl.box.com/s/5qt3ltaxg5s2p8whky2buo0f1uksdpep)|[Links](https://wustl.box.com/s/lmhn2379zslxpvzjrdoxm6ji79r8blxj)|
+| Mus musculus domesticus | C57BL_6NJ|Others| GCA_001632555.1|C57BL_6NJ_v1 |[FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/jsk9grlu0lsmz25s4s82ls96wh8ek6y6)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| Mus musculus  | CBA_J|Others| GCA_001624475.1|CBA_J_v1 |[FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/9hu1u7lnk1n2c0s72h3ac60t6a8d9wyn)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| Mus musculus domesticus | DBA_2J|Others| GCA_001624505.1|DBA_2J_v1 |[FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/ese61lpnolb9mxn1qc90uczmmox20otb)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| Mus musculus  | FVB_NJ|Others| GCA_001624535.1|FVB_NJ_v1 |[FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/99kpi9t9vunq8zexsxw088pgcwv4mova)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| Mus musculus domesticus | LG_J|Others| | |[FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/eg5w8s7upy16mvmfzeueuir46o8lewsm)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| Mus musculus domesticus | LP_J|Others|GCA_001632615.1|LP_J_v1 |[FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/zju14ja57rp1osqv5fkqi5jfhg2otb04)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
+| | SM_J|Others|| |[FASTA](https://wustl.box.com/s/lc668nghe37s24n3fxauig5s2taans91)|[GTF](https://wustl.box.com/s/gdllhz8hhzprrp3c1rkxl6tcs6jlmd9k)|[Links](https://wustl.box.com/s/exz45aph80yxmfsah1pnwffiz3v9nekz)|
 
 ## Datasets
 ### Whole genome sequencing dataset
