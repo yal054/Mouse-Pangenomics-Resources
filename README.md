@@ -57,19 +57,19 @@ Assembles and associated Annotations files are summarized below.
 | --- | --- | --- | --- | --- |
 | CC001 | RI| [FASTA]()|[GTF]()|[Links]()|
 | CC002 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/ts0gqgcfymujll9a2zk8rfu8n3xuhrup)|[Links]()|
-| CC003 | RI| [FASTA]()|[GTF]()|[Links]()|
+| CC003 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/yyd5klen8otoj62ctdas24halq5493ua)|[Links]()|
 | CC004 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC005 | RI| [FASTA]()|[GTF]()|[Links]()|
+| CC005 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/wkakr7yt32gk9znzehz0y0enlzrfhjvd)|[Links]()|
 | CC006 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/dvn14x15gv6e9odpti9ioka0v4wa05lr)|[Links]()|
-| CC007 | RI| [FASTA]()|[GTF]()|[Links]()|
+| CC007 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/pmpq89boocg9s062c5g2lb8bt48c14g9)|[Links]()|
 | CC008 | RI| [FASTA]()|[GTF]()|[Links]()|
 | CC009 | RI| [FASTA]()|[GTF]()|[Links]()|
 | CC010 | RI| [FASTA]()|[GTF]()|[Links]()|
 | CC011 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC012 | RI| [FASTA]()|[GTF]()|[Links]()|
+| CC012 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/jl0ht8cn5f1o2oo57o5nh9q827u64oc1)|[Links]()|
 | CC013 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC015 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC016 | RI| [FASTA]()|[GTF]()|[Links]()|
+| CC015 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/xb5r9ppajeomotr8mighje6gi42wdwyp)|[Links]()|
+| CC016 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/nza4q9qlvrhyq5zikrkcbqxg3j4znmef)|[Links]()|
 | CC017 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/hr7oc9tib5kfje1an9l68kgu5irlsh2h)|[Links]()|
 | CC018 | RI| [FASTA]()|[GTF]()|[Links]()|
 | CC019 | RI| [FASTA]()|[GTF]()|[Links]()|
@@ -77,19 +77,19 @@ Assembles and associated Annotations files are summarized below.
 | CC021 | RI| [FASTA]()|[GTF]()|[Links]()|
 | CC022 | RI| [FASTA]()|[GTF]()|[Links]()|
 | CC023 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC024 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC025 | RI| [FASTA]()|[GTF]()|[Links]()|
+| CC024 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/o2o961ilyd1dzakngat0miw0eu9e0gv2)|[Links]()|
+| CC025 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/pjxso3z261jtkf51nzdiw731vlae08nv)|[Links]()|
 | CC026 | RI| [FASTA]()|[GTF]()|[Links]()|
 | CC027 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/q5y5kxk9hsr58jv4w9w6ncey2kk28qu5)|[Links]()|
 | CC028 | RI| [FASTA]()|[GTF]()|[Links]()|
 | CC029 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC030 | RI| [FASTA]()|[GTF]()|[Links]()|
+| CC030 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/igvsmbq5rbglcmz26kxdb5ym4hnnbtu4)|[Links]()|
 | CC031 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/19jmqtt86nevk8xqylgidmoh3mfwolxf)|[Links]()|
 | CC032 | RI| [FASTA]()|[GTF]()|[Links]()|
 | CC033 | RI| [FASTA]()|[GTF]()|[Links]()|
 | CC034 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC035 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC036 | RI| [FASTA]()|[GTF]()|[Links]()|
+| CC035 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/ps1sk3bjv26h6ccc7qnafay5p67a7cvu)|[Links]()|
+| CC036 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/zvf7p583yj9mgwchvgerpu4g1m5rshqa)|[Links]()|
 | CC037 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/1s8v6425u0x3av1f7qlsoymanwwo52sv)|[Links]()|
 | CC038 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/wac02uj267xqka14otmy7szn3tgvb00p)|[Links]()|
 | CC039 | RI| [FASTA]()|[GTF]()|[Links]()|
@@ -97,38 +97,38 @@ Assembles and associated Annotations files are summarized below.
 | CC041 | RI| [FASTA]()|[GTF]()|[Links]()|
 | CC042 | RI| [FASTA]()|[GTF]()|[Links]()|
 | CC043 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC044 | RI| [FASTA]()|[GTF]()|[Links]()|
+| CC044 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/oiuzl503luwu5l0el7kxqepnjqf0b430)|[Links]()|
 | CC045 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC046 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC047 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC049 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC050 | RI| [FASTA]()|[GTF]()|[Links]()|
+| CC046 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/259ym5toog4vmrvxarjvuf5awkj7uv3p)|[Links]()|
+| CC047 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/p5i72mdqbt0n9n1ugrnlegtpyvm8a6bz)|[Links]()|
+| CC049 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/lxxye61x2zo2ub35whh57zc5ir4xxno7)|[Links]()|
+| CC050 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/y7cs7iwii93p1zjxih9rknqkz8gegyxh)|[Links]()|
 | CC051 | RI| [FASTA]()|[GTF]()|[Links]()|
 | CC052 | RI| [FASTA]()|[GTF]()|[Links]()|
 | CC053 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC055 | RI| [FASTA]()|[GTF]()|[Links]()|
+| CC055 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/08wc8tzdedtgacior3soiicczer6oz2i)|[Links]()|
 | CC056 | RI| [FASTA]()|[GTF]()|[Links]()|
 | CC057 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC058 | RI| [FASTA]()|[GTF]()|[Links]()|
+| CC058 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/cja5unsrjffk6sh2lksw90yyifnnupsv)|[Links]()|
 | CC059 | RI| [FASTA]()|[GTF]()|[Links]()|
 | CC060 | RI| [FASTA]()|[GTF]()|[Links]()|
 | CC061 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/sqp9ksyhyus8anbrdpidkg528medlemx)|[Links]()|
 | CC062 | RI| [FASTA]()|[GTF]()|[Links]()|
 | CC063 | RI| [FASTA]()|[GTF]()|[Links]()|
 | CC065 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC068 | RI| [FASTA]()|[GTF]()|[Links]()|
+| CC068 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/ihxp9whsqe7gwobyek9xadeiv2wymk3c)|[Links]()|
 | CC070 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC071 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC072 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC073 | RI| [FASTA]()|[GTF]()|[Links]()|
+| CC071 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/hx39eydkjfcxrdvkhvuman6qyct0sfvp)|[Links]()|
+| CC072 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/28e07on3thjvqqc0vn2aumzt8jbb0ma2)|[Links]()|
+| CC073 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/24yta37uy37kxtchf9xbj5igxeojjsl3)|[Links]()|
 | CC074 | RI| [FASTA]()|[GTF]()|[Links]()|
 | CC075 | RI| [FASTA]()|[GTF]()|[Links]()|
 | CC076 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/9y6vt3qsugsosg1bwqy717aoaiuvhztr)|[Links]()|
-| CC078 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC079 | RI| [FASTA]()|[GTF]()|[Links]()|
+| CC078 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/7od5409460qxe5un0t8925u135sz2dp7)|[Links]()|
+| CC079 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/ile9jgo053luiw72fv0yoj1wylj7uzkn)|[Links]()|
 | CC080 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC081 | RI| [FASTA]()|[GTF]()|[Links]()|
-| CC082 | RI| [FASTA]()|[GTF]()|[Links]()|
+| CC081 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/9y6cdmz8o2b5gxmdywwpqzkqh0azvr39)|[Links]()|
+| CC082 | RI| [FASTA]()|[GTF](https://wustl.box.com/s/rq5pmykbaxoxupo4jo9olgxwesg0rxg3)|[Links]()|
 | CC083 | RI| [FASTA]()|[GTF]()|[Links]()|
 
 #### Other Strains
@@ -160,5 +160,5 @@ Sample sources: [GSE87101](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GS
 JJ011 and JJ012 are two biological replicates of F1 hybrid mice, generated from a cross between CC032 (maternal) and CC072 (paternal) strains.
 | Sample |FASTQ|
 | --- |--- | 
-|JJ011|[FASTQ]()|
-|JJ012|[FASTQ]()|
+|JJ011|[FASTQ](https://wustl.box.com/s/vlcjgw9aizmnpv5zixha9jnrrytbf9ed)|
+|JJ012|[FASTQ](https://wustl.box.com/s/oacltq9zoh1dst3a8o9vqqbicz1dm0kv)|
