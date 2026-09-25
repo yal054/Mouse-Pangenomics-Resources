@@ -162,3 +162,7 @@ JJ011 and JJ012 are two biological replicates of F1 hybrid mice, generated from 
 | --- |--- | 
 |JJ011|[FASTQ](https://wustl.box.com/s/vlcjgw9aizmnpv5zixha9jnrrytbf9ed)|
 |JJ012|[FASTQ](https://wustl.box.com/s/oacltq9zoh1dst3a8o9vqqbicz1dm0kv)|
+
+## Cite
+
+[![DOI](https://zenodo.org/badge/992726133.svg)](https://doi.org/10.5281/zenodo.22967912)
